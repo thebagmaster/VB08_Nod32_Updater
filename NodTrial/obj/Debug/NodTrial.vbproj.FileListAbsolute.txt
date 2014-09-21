@@ -1,0 +1,10 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Debug\WindowsApplication1.frmNodTrial.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Debug\NodTrial.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\bin\Debug\NodTrial.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\bin\Debug\NodTrial.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\bin\Debug\NodTrial.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Debug\NodTrial.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Debug\NodTrial.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Debug\NodTrial.pdb

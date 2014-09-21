@@ -1,0 +1,11 @@
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\bin\Release\NodTrial.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\bin\Release\NodTrial.pdb
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\bin\Release\NodTrial.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Release\WindowsApplication1.frmNodTrial.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Release\WindowsApplication1.SplashScreen1.resources
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Release\NodTrial.vbproj.GenerateResource.Cache
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Release\NodTrial.exe
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Release\NodTrial.xml
+C:\Users\Dan\Documents\Visual Studio 2008\Projects\NodTrial\NodTrial\obj\Release\NodTrial.pdb
